@@ -1,5 +1,5 @@
 
-**About Me**<img src="![Web Development](https://github.com/user-attachments/assets/e15f9da1-fc65-4102-aab4-133b7a3561b7)
+**About Me**<img src="https://github.com/user-attachments/assets/e15f9da1-fc65-4102-aab4-133b7a3561b7
 " min-width="300px" max-width="300px" width="350px" align="right">
 👋 Hi, I’m @riyaraghuwanshi31
 👩‍💻About Me: I'm a Java and MERN Developer
