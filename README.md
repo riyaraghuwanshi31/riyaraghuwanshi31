@@ -18,7 +18,7 @@
 " min-width="200px" max-width="200px" width="250px" align="right">
 
  <ul font-size="5px">
-   <li>Java</li>
+   <li font-size="5px">Java</li>
    <li>SpringBoot</li>
    <li>HTML</li>
    <li>CSS</li>
