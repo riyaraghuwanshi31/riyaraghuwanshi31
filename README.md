@@ -17,7 +17,7 @@
 ⚙️**Tech Stack:**  <img src="https://github.com/user-attachments/assets/f1a78f42-c6eb-4442-9b6b-79f82c7d30a7
 " min-width="200px" max-width="200px" width="250px" align="right">
 
- <ul font-size="10px">
+ <ul font-size="5px">
    <li>Java</li>
    <li>SpringBoot</li>
    <li>HTML</li>
