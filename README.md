@@ -6,8 +6,8 @@
 
 Hi there, I'm  <br>
 👩‍💻I'm a Java and MERN Developer <br>
-🌟I'm Skilled Java programmer with expertise in Data Structures and Algorithms
-🥋I'm a Karate black belt girl
+🌟I'm Skilled Java programmer with expertise in Data Structures and Algorithms <br>
+🥋I'm a Karate black belt girl<br>
 <br>
 <p align="center>
   <a href="https://my-portfolio-mern-taupe.vercel.app/">Portfolio</a> <br>
