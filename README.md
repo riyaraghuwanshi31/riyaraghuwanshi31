@@ -8,7 +8,7 @@ Hi there, I'm  <br>
 👩‍💻I'm a Java and MERN Developer <br>
 🌟I'm Skilled Java programmer with expertise in Data Structures and Algorithms
 🥋I'm a Karate black belt girl
-
+<br>
 <p align="center>
   <a href="https://my-portfolio-mern-taupe.vercel.app/">Portfolio</a> <br>
   <a href="https://www.linkedin.com/in/riya-raghuwanshi-92185624b/">LinkedIn</a> <br> <br>
