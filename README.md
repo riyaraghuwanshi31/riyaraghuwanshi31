@@ -1,12 +1,37 @@
+<h1 align="center>Hi there, I'm Riya </h1>
+<p align="center>
+  <a href="https://my-portfolio-mern-taupe.vercel.app/">Portfolio</a>
+  <a href="[https://my-portfolio-mern-taupe.vercel.app/](https://www.linkedin.com/in/riya-raghuwanshi-92185624b)">LinkedIn</a>
+    
+</p>
 
-**About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
-👋 Hi, I’m @riyaraghuwanshi31
-👩‍💻About Me: I'm a Java and MERN Developer
-⭐How to reach me: Linkdin (www.linkedin.com/in/riya-raghuwanshi-92185624b )
+-------------------------------------------------------------------------------------------------------
 
-⚙️Tech Stack: Java, SpringBoot, HTML, CSS, JacaScript, Nodejs, Expressjs, React.js, and MongoDB.  
+**🤖About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
-![Web Development](https://github.com/user-attachments/assets/e15f9da1-fc65-4102-aab4-133b7a3561b7)
+👩‍💻I'm a Java and MERN Developer
+🥋I'm a Karate black belt girl
+
+-------------------------------------------------------------------------------------------------------
+
+⚙️**Tech Stack:**  <img src="https://github.com/user-attachments/assets/f1a78f42-c6eb-4442-9b6b-79f82c7d30a7
+" min-width="300px" max-width="300px" width="350px" align="right">
+
+ <ul>
+   <li>Java</li>
+   <li>SpringBoot</li>
+   <li>HTML</li>
+   <li>CSS</li>
+   <li>JavaScript</li>
+   <li>Nodejs</li>
+   <li>Expressjs</li>
+   <li>Reactjs</li>
+   <li>MongoDB</li>
+   
+ </ul>
+   
+
+
 
 
 
