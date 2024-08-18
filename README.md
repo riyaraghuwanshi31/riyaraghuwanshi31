@@ -1,10 +1,10 @@
 
-
+<h2>Hi there, I'm Riya</h2>
 
 ## About Me
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
-Hi there, I'm  <br>
+ <br>
 👩‍💻I'm a Java and MERN Developer <br>
 🌟I'm Skilled Java programmer with expertise in Data Structures and Algorithms <br>
 🥋I'm a Karate black belt girl<br>
