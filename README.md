@@ -1,8 +1,12 @@
+
+**About Me**<img src="https://www.loom.com/share/a298d6521a4d4916878f41fa39b68c1e?sid=ce76e9b6-d595-44fc-9fe6-9a2ace56a775&utm_source=substack&utm_medium=email" min-width="300px" max-width="300px" width="350px" align="right">
 👋 Hi, I’m @riyaraghuwanshi31
 👩‍💻About Me: I'm a Java and MERN Developer
 ⭐How to reach me: Linkdin (www.linkedin.com/in/riya-raghuwanshi-92185624b )
 
-⚙️Tech Stack: Java, SpringBoot, HTML, CSS, JacaScript, Nodejs, Expressjs, React.js, and MongoDB.    ![Web Development](https://github.com/user-attachments/assets/e15f9da1-fc65-4102-aab4-133b7a3561b7)
+⚙️Tech Stack: Java, SpringBoot, HTML, CSS, JacaScript, Nodejs, Expressjs, React.js, and MongoDB.  
+
+![Web Development](https://github.com/user-attachments/assets/e15f9da1-fc65-4102-aab4-133b7a3561b7)
 
 
 
