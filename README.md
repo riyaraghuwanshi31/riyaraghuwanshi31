@@ -2,7 +2,8 @@
 👩‍💻About Me: I'm a Java and MERN Developer
 ⭐How to reach me: Linkdin (www.linkedin.com/in/riya-raghuwanshi-92185624b )
 
-⚙️Tech Stack: Java, SpringBoot, HTML, CSS, JacaScript, Nodejs, Expressjs, React.js, and MongoDB.    ![AI Research Animated Icon](https://github.com/user-attachments/assets/7e3f17a1-fc31-4272-a2a1-f831bbd31a6b)
+⚙️Tech Stack: Java, SpringBoot, HTML, CSS, JacaScript, Nodejs, Expressjs, React.js, and MongoDB.    ![Web Development](https://github.com/user-attachments/assets/e15f9da1-fc65-4102-aab4-133b7a3561b7)
+
 
 
 
