@@ -1,5 +1,5 @@
 
-<h2>Hi there, I'm Riya</h2>
+<h1 align="center">Hi there, I'm Riya</h1>
 
 ## About Me
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
