@@ -4,12 +4,14 @@
 ## About Me
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
-Hi there, I'm Riya
+Hi there, I'm  <br>
 👩‍💻I'm a Java and MERN Developer <br>
+🌟I'm Skilled Java programmer with expertise in Data Structures and Algorithms
 🥋I'm a Karate black belt girl
+
 <p align="center>
   <a href="https://my-portfolio-mern-taupe.vercel.app/">Portfolio</a> <br>
-  <a href="[https://my-portfolio-mern-taupe.vercel.app/](https://www.linkedin.com/in/riya-raghuwanshi-92185624b)">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/riya-raghuwanshi-92185624b/">LinkedIn</a> <br> <br>
 </p>
 
 
